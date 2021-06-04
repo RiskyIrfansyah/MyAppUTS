@@ -13,10 +13,11 @@ import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class MainActivity extends AppCompatActivity {
     /*
-    NIM             : 10118085
-    Nama            : Risky Irfansyah
-    Kelas           : IF2
-    Matakuliah      : Aplikasi Komputasi Bergerak
+    NIM                 : 10118085
+    Nama                : Risky Irfansyah
+    Kelas               : IF2
+    Matakuliah          : Aplikasi Komputasi Bergerak
+    Tanggal pengerjaan  : 03 Juni 2021
     */
     BottomNavigationView bottomNavigationView;
     private BottomNavigationView.OnNavigationItemSelectedListener navigation = new BottomNavigationView.OnNavigationItemSelectedListener() {

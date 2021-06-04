@@ -13,10 +13,11 @@ import org.jetbrains.annotations.NotNull;
 
 public class HomeFragment extends Fragment {
     /*
-    NIM             : 10118085
-    Nama            : Risky Irfansyah
-    Kelas           : IF2
-    Matakuliah      : Aplikasi Komputasi Bergerak
+    NIM                 : 10118085
+    Nama                : Risky Irfansyah
+    Kelas               : IF2
+    Matakuliah          : Aplikasi Komputasi Bergerak
+    Tanggal pengerjaan  : 04 Juni 2021
     */
 
     @Nullable
