@@ -15,14 +15,11 @@ import java.util.ArrayList;
 
 public class GalleryFragment extends Fragment {
     /*
-    NIM             : 10118052
-    Nama            : Bagus Syibro Malisi
+    NIM             : 10118085
+    Nama            : Risky Irfansyah
     Kelas           : IF2
     Matakuliah      : Aplikasi Komputasi Bergerak
-
-    Membuat fragment gallery_fragment untuk logic ketika bottomviewer diklik. juga membuat layout home untuk tampilan fragment
-    Membuat fragment gallery serta logic untuk menampilkan gambarnya.
-     */
+    */
 
     @Nullable
     @Override

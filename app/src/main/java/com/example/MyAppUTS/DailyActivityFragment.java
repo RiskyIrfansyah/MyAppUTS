@@ -14,15 +14,11 @@ import androidx.recyclerview.widget.RecyclerView;
 public class DailyActivityFragment extends Fragment {
 
     /*
-    NIM             : 10118052
-    Nama            : Bagus Syibro Malisi
+    NIM             : 10118085
+    Nama            : Risky Irfansyah
     Kelas           : IF2
     Matakuliah      : Aplikasi Komputasi Bergerak
-
-    Membuat aktivity daily_fragment untuk logic ketika bottomviewer diklik. juga membuat layout daily untuk tampilan fragment
-    Mnegupdate daily fragment untuk diterapkan 2 recycler view
-    Mengubah recyclerview kedua menjadi horizontal
-     */
+    */
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {

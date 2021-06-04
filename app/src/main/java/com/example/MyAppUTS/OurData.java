@@ -2,15 +2,11 @@ package com.example.MyAppUTS;
 
 public class OurData {
     /*
-    NIM             : 10118052
-    Nama            : Bagus Syibro Malisi
+    NIM             : 10118085
+    Nama            : Risky Irfansyah
     Kelas           : IF2
     Matakuliah      : Aplikasi Komputasi Bergerak
-
-    Membuat our data untuk menyimpan data yang akan dipanggil.
-    Mengupdate ourdata untuk fragment music
-    Menambahkan data untuk friendlist dan juga daily
-     */
+    */
 
 
     public static String[] friendlist_daily = new String[]{

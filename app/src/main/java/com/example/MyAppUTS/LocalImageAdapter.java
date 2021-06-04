@@ -13,16 +13,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class LocalImageAdapter extends RecyclerView.Adapter<LocalImageAdapter.Holder> {
-
-
     /*
-    NIM             : 10118052
-    Nama            : Bagus Syibro Malisi
+    NIM             : 10118085
+    Nama            : Risky Irfansyah
     Kelas           : IF2
     Matakuliah      : Aplikasi Komputasi Bergerak
-
-    Membuat adapter untuk fragment gallery, example from ufebri
-     */
+    */
 
     private List<LocalImages> images;
     private Context context;

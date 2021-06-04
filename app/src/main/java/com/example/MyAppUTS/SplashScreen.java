@@ -1,13 +1,19 @@
 package com.example.MyAppUTS;
 
+import android.content.Intent;
+import android.os.Bundle;
+import android.os.Handler;
+import android.view.Window;
+
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.os.Bundle;
-import android.view.Window;
-import android.content.Intent;
-import android.os.Handler;
-
 public class SplashScreen extends AppCompatActivity {
+    /*
+    NIM             : 10118085
+    Nama            : Risky Irfansyah
+    Kelas           : IF2
+    Matakuliah      : Aplikasi Komputasi Bergerak
+    */
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

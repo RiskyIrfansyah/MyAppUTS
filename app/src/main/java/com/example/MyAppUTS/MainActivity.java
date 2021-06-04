@@ -12,6 +12,12 @@ import androidx.fragment.app.Fragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class MainActivity extends AppCompatActivity {
+    /*
+    NIM             : 10118085
+    Nama            : Risky Irfansyah
+    Kelas           : IF2
+    Matakuliah      : Aplikasi Komputasi Bergerak
+    */
     BottomNavigationView bottomNavigationView;
     private BottomNavigationView.OnNavigationItemSelectedListener navigation = new BottomNavigationView.OnNavigationItemSelectedListener() {
         @Override

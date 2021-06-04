@@ -11,14 +11,11 @@ import androidx.recyclerview.widget.RecyclerView;
 
 public class ListAdapter2 extends RecyclerView.Adapter {
     /*
-    NIM             : 10118052
-    Nama            : Bagus Syibro Malisi
+    NIM             : 10118085
+    Nama            : Risky Irfansyah
     Kelas           : IF2
     Matakuliah      : Aplikasi Komputasi Bergerak
-
-    Membuat adapter untuk digunakan pada fragment
-    Mengubah panggilan data sesuai dengan konten yang dibutuhkan
-     */
+    */
     @NonNull
     @Override
     public RecyclerView.ViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {

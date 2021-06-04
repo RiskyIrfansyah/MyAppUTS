@@ -11,9 +11,13 @@ import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import org.jetbrains.annotations.NotNull;
-
 public class MusicVideoFragment extends Fragment {
+    /*
+    NIM             : 10118085
+    Nama            : Risky Irfansyah
+    Kelas           : IF2
+    Matakuliah      : Aplikasi Komputasi Bergerak
+    */
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {

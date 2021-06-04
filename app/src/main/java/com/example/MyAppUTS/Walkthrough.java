@@ -17,6 +17,12 @@ import androidx.viewpager.widget.PagerAdapter;
 import androidx.viewpager.widget.ViewPager;
 
 public class Walkthrough extends AppCompatActivity {
+    /*
+    NIM             : 10118085
+    Nama            : Risky Irfansyah
+    Kelas           : IF2
+    Matakuliah      : Aplikasi Komputasi Bergerak
+    */
 
     private static final int MAX_STEP = 3;
 
