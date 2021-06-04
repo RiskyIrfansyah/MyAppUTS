@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyAppUTS</string>
+
+    <string name="home">Home</string>
+    <string name="daily_activity">Daily Activity</string>
+    <string name="gallery">Gallery</string>
+    <string name="music_video">Music Favorite and Video</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nama">RISKY IRFANSYAH</string>
+    <string name="nim">10118085</string>
+    <string name="kelas">IF-2</string>
+    <string name="interest">Memiliki hobby yang khalayaknya laki-laki sukai yaitu bermain game. hampir menyukai semua jenis makanan yang penting bisa bikin kenyang, begitu juga minuman. Tertarik dengan hal-hal yang berbau teknologi terutama mengenai komputer. Cita-cita sedari kecil ingin menjadi astronaut tetapi saat ini berganti ingin membuka sebuah toko agar dapat memberi lowongan kepada yang membutuhkan</string>
+    <string name="daily_my_daily">My Daily Activity</string>
+    <string name="ttl">Cimahi, 14 Juni 1999</string>
+    <string name="datadiri">Terlahir di Cimahi pada tanggal 14 Juni 1999, anak ke dua dari dua bersaudara. Pertama kali menempuh pendidikan di TK Dharma Wanita, lulus dan masuk ke SD Negeri Cimahi Mandiri 5. Setelah menempuh pendidikan SD selama 6 tahun melanjutkan pendidikan ke jenjang SMP di SMP Negeri 2 Cimahi serta mengikuti Ekskul Paskibra selama 3 tahun. Melanjutkan pendidikan ke jenjang SMA di SMA Negeri 3 Cimahi selama 3 tahun dan berhasil lulus. Lulus dari tingkat SMA mencoba berbagai ujian saring masuk Universitas dan berakhir di Universitas Komputer Indonesia hingga saat ini. </string>
+    <string name="findme">CARI AKU</string>
+    <string name="about1">My Version Application</string>
+    <string name="about2">Android Version : 1.0 Rilis pertama</string>
+    <string name="about3">Android Version : 1.1 Memperbaiki Layout</string>
+    <string name="about4">Android Version : 1.2 Menambah fitur</string>
+    <string name="about5">Android Version : 2.0 Rilis Utama</string>
+</resources>

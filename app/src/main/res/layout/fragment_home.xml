@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Walkthrough"
+    android:background="@drawable/background">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="25dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginBottom="75dp"
+        android:background="#802C3A47">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp">
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/pp">
+            </ImageView>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="100dp"
+                android:layout_marginLeft="110dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="50dp"
+                    android:id="@+id/nama"
+                    android:text="@string/nama"
+                    android:textColor="#ffffff"
+                    android:textSize="20sp"
+                    android:textFontWeight="500"
+                    android:lineHeight="22sp"
+                    android:fontFamily="@font/georgiaz">
+                </TextView>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="25dp"
+                    android:id="@+id/nim"
+                    android:text="@string/nim"
+                    android:textColor="#ffffff"
+                    android:textSize="20sp"
+                    android:textFontWeight="500"
+                    android:lineHeight="22sp"
+                    android:fontFamily="@font/georgiaz">
+                </TextView>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="25dp"
+                    android:id="@+id/kelas"
+                    android:text="@string/kelas"
+                    android:textColor="#ffffff"
+                    android:textSize="20sp"
+                    android:textFontWeight="500"
+                    android:lineHeight="22sp"
+                    android:fontFamily="@font/georgiaz">
+                </TextView>
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_marginTop="150dp"
+            android:layout_marginLeft="25dp"
+            android:layout_marginRight="25dp">
+
+            <TextView
+                android:id="@+id/interest"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/robotomedium"
+                android:lineHeight="22sp"
+                android:text="@string/interest"
+                android:textAlignment="center"
+                android:textColor="#ffffff"
+                android:textFontWeight="500"
+                android:textSize="16sp">
+
+            </TextView>
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>
